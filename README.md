@@ -5,6 +5,20 @@ Network library is a simple C# Network Library that takes the
 complication of managing a TCP/IP connections and includes many
 handy features.
 
+Features
+--------
+
+Network comes with the follow features:
+
+* Simple and easy to use.
+* [Events](https://github.com/TheThing/NetworkLibrary/wiki/Registering-events).
+* Native serializing support.
+* [Object registration](https://github.com/TheThing/NetworkLibrary/wiki/Registering-objects).
+* [Support bind-able objects](https://github.com/TheThing/NetworkLibrary/wiki/Binding-objects).
+* And lots more...
+
+
+
 Quick Start
 -----------
 
